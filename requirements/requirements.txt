@@ -1,0 +1,26 @@
+# Develop a web page that displays countries as per the attached design , with the required features:
+-cards of countries are listed horizontally  in a carousel / slider  area.
+-on click on each country card , news of this countries are fetched and displayed below as per the attached design
+-display a loading indicator whenever needed (loading countries or a country news)
+-use below open APIs to fetch the needed data
+#News API
+https://newsapi.org/
+# World countries API
+https://restcountries.eu/rest/v2/
+**Important Note :  To be able to use the news API you will to to serve you pages using HTTP server to avoid CORS errors , please check below vscode plugin
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+Files are organized with a directory structure that separates files based on functionality. For example:
+ - <code>css/</code> for stylesheets
+ - <code>img/</code> for images
+ - <code>fonts/</code> for font files
+ -<code>js/</code> for js files
+## When you're ready to submit your project
+- Write down your estimate vs actual time spent to finalize the task for ex: Estimate : 2hrs / Actual : 4 hrs
+- Please send your submission to :instructors@renolab.net
+> Deadline to receive the submissions : 2nd August   @ 05:00pm
+News APINews API
+News API – Search News and Blog Articles on the Web
+Get JSON search results for global news articles in real-time with our free News API.
+marketplace.visualstudio.commarketplace.visualstudio.com
+Live Server - Visual Studio Marketplace
+Extension for Visual Studio Code - Launch a development local Server with live reload feature for static & dynamic pages
